@@ -1514,13 +1514,13 @@ design rules under a new name.</description>
 <element name="R20" library="SparkFun-Resistors" package="0603-RES" value="100k" x="69.4" y="40.8" rot="R180">
 <attribute name="PROD_ID" value="RES-07864" x="69.4" y="40.8" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
-<element name="R22" library="SparkFun-Resistors" package="0603-RES" value="2.2k" x="78.9" y="46.6">
+<element name="R22" library="SparkFun-Resistors" package="0603-RES" value="4.7k" x="78.9" y="46.6">
 <attribute name="PROD_ID" value="RES-07864" x="78.9" y="46.6" size="1.778" layer="27" display="off"/>
 </element>
 <element name="C30" library="Seeed-OPL-Capacitor" package="C0603" value="1uF" x="79.9" y="49.65" rot="R180">
 <attribute name="MPN" value="CC0603KRX5R6BB475" x="79.9" y="49.65" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
-<element name="R23" library="SparkFun-Resistors" package="0603-RES" value="1.1k" x="69.4" y="38.1" rot="R180">
+<element name="R23" library="SparkFun-Resistors" package="0603-RES" value="4.7k" x="69.4" y="38.1" rot="R180">
 <attribute name="PROD_ID" value="RES-07864" x="69.4" y="38.1" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
 <element name="C31" library="Seeed-OPL-Capacitor" package="C0603" value="1uF" x="66.6" y="39.25">

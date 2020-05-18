@@ -9480,9 +9480,9 @@ We've spent an enormous amount of time creating and checking these footprints an
 <part name="GND14" library="supply1" deviceset="GND" device=""/>
 <part name="R19" library="SparkFun-Resistors" deviceset="390OHM1/10W1%(0603)" device="" value="100k"/>
 <part name="R20" library="SparkFun-Resistors" deviceset="390OHM1/10W1%(0603)" device="" value="100k"/>
-<part name="R22" library="SparkFun-Resistors" deviceset="390OHM1/10W1%(0603)" device="" value="2.2k"/>
+<part name="R22" library="SparkFun-Resistors" deviceset="390OHM1/10W1%(0603)" device="" value="4.7k"/>
 <part name="C30" library="Seeed-OPL-Capacitor" deviceset="CERAMIC-4.7UF-10V-10%-X5R(0603)" device="" value="1uF"/>
-<part name="R23" library="SparkFun-Resistors" deviceset="390OHM1/10W1%(0603)" device="" value="1.1k"/>
+<part name="R23" library="SparkFun-Resistors" deviceset="390OHM1/10W1%(0603)" device="" value="4.7k"/>
 <part name="C31" library="Seeed-OPL-Capacitor" deviceset="CERAMIC-4.7UF-10V-10%-X5R(0603)" device="" value="1uF"/>
 <part name="GND24" library="supply1" deviceset="GND" device=""/>
 <part name="GND28" library="supply1" deviceset="GND" device=""/>
