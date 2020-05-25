@@ -10,6 +10,7 @@
 
 ## Features
 - [x] Headphone(3.5mm) Mode for Auscultation
-- [ ] Heart and Lung Sounds Recoed .wav file to SD CARD
 - [ ] Heart and Lung Sounds Mode Switch 
-- [ ] Replay Sample of Disease from SD CARD
+- [ ] SD Card Operate
+  - [ ] Heart and Lung Sounds Recoed .wav file to SD Card
+  - [ ] Replay Sample of Disease from SD Card
